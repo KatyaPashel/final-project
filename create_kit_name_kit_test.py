@@ -1,7 +1,6 @@
 import sender_stand_request
 import data
 
-
 # Функция для получения track
 def get_track():
     order_body = data.order_body

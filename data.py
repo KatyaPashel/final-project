@@ -12,6 +12,3 @@ order_body = {
     ]
 }
 
-order_track = {
-    "track": "{track}"
-}
